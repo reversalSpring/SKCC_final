@@ -19,7 +19,8 @@
 <img width="1212" alt="스크린샷 2020-10-14 오후 1 19 49" src="https://user-images.githubusercontent.com/30167661/95943158-00cb5500-0e20-11eb-812c-e03d1127c00b.png">
 
 ## transparent_hugepage disable
-<img width="526" alt="스크린샷 2020-10-14 오후 1 37 21" src="https://user-images.githubusercontent.com/30167661/95944125-73d5cb00-0e22-11eb-9b69-45d045f92fdd.png">
+<img width="1343" alt="스크린샷 2020-10-14 오후 1 51 22" src="https://user-images.githubusercontent.com/30167661/95944938-5f92cd80-0e24-11eb-92a0-ddc111dd8841.png">
+
 
 
 
