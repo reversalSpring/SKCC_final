@@ -2,7 +2,7 @@
 
 ## training id/pw/uid/group 설정
 
-- wd 설정은 스크린 설정이 올라가서....
+- wd 설정은 스크린이 빠르게 올라가 버려서....
 <img width="260" alt="스크린샷 2020-10-14 오후 1 03 20" src="https://user-images.githubusercontent.com/30167661/95942913-5ce1a980-0e1f-11eb-9b7a-4997779c0fc2.png">
 
 - group 생성과 training id 추가
