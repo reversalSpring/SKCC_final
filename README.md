@@ -10,3 +10,7 @@
 
 ## 호스트스 설정
 <img width="1210" alt="호스트스 설정" src="https://user-images.githubusercontent.com/30167661/95942848-358adc80-0e1f-11eb-805c-33f2ec2f7e15.png">
+
+## 사용하고 있는 리눅스
+<img width="1212" alt="스크린샷 2020-10-14 오후 1 19 49" src="https://user-images.githubusercontent.com/30167661/95943158-00cb5500-0e20-11eb-812c-e03d1127c00b.png">
+
