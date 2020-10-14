@@ -46,6 +46,8 @@
 ## impala 설치
 <img width="920" alt="스크린샷 2020-10-14 오후 5 24 13" src="https://user-images.githubusercontent.com/30167661/95963100-32edae80-0e42-11eb-8f4f-f9c571ea84d3.png">
 
+## sqoop 설치
+<img width="946" alt="스크린샷 2020-10-14 오후 5 25 23" src="https://user-images.githubusercontent.com/30167661/95963178-4e58b980-0e42-11eb-9739-ee5f6ba742da.png">
 
 
 ## mysql 명령어
