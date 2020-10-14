@@ -35,7 +35,7 @@
 
 <img width="583" alt="스크린샷 2020-10-14 오후 4 38 56" src="https://user-images.githubusercontent.com/30167661/95958202-c66fb100-0e3b-11eb-9061-02bee3456eb5.png">
 
-## cloudera server(나머지 5개 다 잡혔고 설정 완료 햇습니다. 5.15.2 버전 완료)
+## cloudera server(나머지 5개 다 잡아서 클러스서 설정 완료 햇습니다. 5.15.2 버전 완료)
 <img width="1091" alt="스크린샷 2020-10-14 오후 5 13 26" src="https://user-images.githubusercontent.com/30167661/95961848-98d93680-0e40-11eb-8ac2-455557d0f8b8.png">
 
 <img width="1388" alt="스크린샷 2020-10-14 오후 5 17 07" src="https://user-images.githubusercontent.com/30167661/95962279-20bf4080-0e41-11eb-904f-130e19df8751.png">
@@ -50,7 +50,7 @@
 <img width="946" alt="스크린샷 2020-10-14 오후 5 25 23" src="https://user-images.githubusercontent.com/30167661/95963178-4e58b980-0e42-11eb-9739-ee5f6ba742da.png">
 
 
-## mysql 명령어
+## 2번 mysql 명령어
 create database test
 
 CREATE TABLE author (
@@ -61,7 +61,6 @@ CREATE TABLE posts (
 -- sript 참고
 )
 
-# training 유저 생성
 INSERT INTO author (해당 column)
 VALUES (training 유저에 대한 정보)
 
