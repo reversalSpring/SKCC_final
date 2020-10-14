@@ -35,11 +35,12 @@
 
 <img width="583" alt="스크린샷 2020-10-14 오후 4 38 56" src="https://user-images.githubusercontent.com/30167661/95958202-c66fb100-0e3b-11eb-9061-02bee3456eb5.png">
 
-## cloudera server 설치를 하다가 오류가 났습니다.
+## cloudera server()
 <img width="925" alt="스크린샷 2020-10-14 오후 4 53 36" src="https://user-images.githubusercontent.com/30167661/95959745-d9838080-0e3d-11eb-87cf-d3f6f31d66bb.png">
 
 ## mysql 명령어
 create database test
+
 CREATE TABLE test (
 id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY
 )
