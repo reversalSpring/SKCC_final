@@ -30,6 +30,13 @@
 ## mysql설치 및 각각 JDBC 설치
 <img width="1351" alt="스크린샷 2020-10-14 오후 3 09 05" src="https://user-images.githubusercontent.com/30167661/95950317-3deb1380-0e2f-11eb-8723-5e774ac2ca0d.png">
 
+## mysql 데이터베이스 생성밑 권한 설정
+<img width="360" alt="스크린샷 2020-10-14 오후 4 37 10" src="https://user-images.githubusercontent.com/30167661/95958054-88728d00-0e3b-11eb-92eb-d72b1393da7a.png">
+
+<img width="583" alt="스크린샷 2020-10-14 오후 4 38 56" src="https://user-images.githubusercontent.com/30167661/95958202-c66fb100-0e3b-11eb-9061-02bee3456eb5.png">
+
+## 
+
 
 
 
