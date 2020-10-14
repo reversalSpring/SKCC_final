@@ -24,6 +24,13 @@
 ## nptd, nscd 설치 및 실행
 <img width="1347" alt="스크린샷 2020-10-14 오후 2 07 13" src="https://user-images.githubusercontent.com/30167661/95946001-9ff34b00-0e26-11eb-9d3c-2d2a33cedc6c.png">
 
+## java 1.8 설치
+<img width="1124" alt="스크린샷 2020-10-14 오후 2 10 30" src="https://user-images.githubusercontent.com/30167661/95946213-0d9f7700-0e27-11eb-826d-3715da3738ae.png">
+
+## mysql설치 및 각각 JDBC 설치
+<img width="1351" alt="스크린샷 2020-10-14 오후 3 09 05" src="https://user-images.githubusercontent.com/30167661/95950317-3deb1380-0e2f-11eb-8723-5e774ac2ca0d.png">
+
+
 
 
 
