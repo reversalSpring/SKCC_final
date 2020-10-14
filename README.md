@@ -65,6 +65,11 @@ CREATE TABLE posts (
 INSERT INTO author (해당 column)
 VALUES (training 유저에 대한 정보)
 
+## 5번에 result table 생성
+CREATE TABLE result (
+-- sript 참고
+)
+
 
 ### 다 끝내지 못해 죄송합니다. ㅠㅠ
 
