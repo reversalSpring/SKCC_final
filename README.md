@@ -35,8 +35,10 @@
 
 <img width="583" alt="스크린샷 2020-10-14 오후 4 38 56" src="https://user-images.githubusercontent.com/30167661/95958202-c66fb100-0e3b-11eb-9061-02bee3456eb5.png">
 
-## cloudera server(설치중 끝나게 되었습니다. 나머지 5개 다 잡혔고 설정 완료 햇습니다.)
+## cloudera server(나머지 5개 다 잡혔고 설정 완료 햇습니다.)
 <img width="1091" alt="스크린샷 2020-10-14 오후 5 13 26" src="https://user-images.githubusercontent.com/30167661/95961848-98d93680-0e40-11eb-8ac2-455557d0f8b8.png">
+
+<img width="1388" alt="스크린샷 2020-10-14 오후 5 17 07" src="https://user-images.githubusercontent.com/30167661/95962279-20bf4080-0e41-11eb-904f-130e19df8751.png">
 
 ## mysql 명령어
 create database test
