@@ -21,6 +21,11 @@
 ## transparent_hugepage disable (재부팅후 disable 확인)
 <img width="1343" alt="스크린샷 2020-10-14 오후 1 51 22" src="https://user-images.githubusercontent.com/30167661/95944938-5f92cd80-0e24-11eb-92a0-ddc111dd8841.png">
 
+## nptd, nscd 설치 및 실행
+<img width="1347" alt="스크린샷 2020-10-14 오후 2 07 13" src="https://user-images.githubusercontent.com/30167661/95946001-9ff34b00-0e26-11eb-9d3c-2d2a33cedc6c.png">
+
+
+
 
 
 
