@@ -18,7 +18,7 @@
 ## 사용하고 있는 리눅스
 <img width="1212" alt="스크린샷 2020-10-14 오후 1 19 49" src="https://user-images.githubusercontent.com/30167661/95943158-00cb5500-0e20-11eb-812c-e03d1127c00b.png">
 
-## transparent_hugepage disable
+## transparent_hugepage disable (재부팅후 disable 확인)
 <img width="1343" alt="스크린샷 2020-10-14 오후 1 51 22" src="https://user-images.githubusercontent.com/30167661/95944938-5f92cd80-0e24-11eb-92a0-ddc111dd8841.png">
 
 
