@@ -61,6 +61,10 @@ CREATE TABLE posts (
 -- sript 참고
 )
 
+# training 유저 생성
+INSERT INTO author (해당 column)
+VALUES (training 유저에 대한 정보)
+
 
 ### 다 끝내지 못해 죄송합니다. ㅠㅠ
 
