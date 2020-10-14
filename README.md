@@ -40,6 +40,14 @@
 
 <img width="1388" alt="스크린샷 2020-10-14 오후 5 17 07" src="https://user-images.githubusercontent.com/30167661/95962279-20bf4080-0e41-11eb-904f-130e19df8751.png">
 
+## hive 설치
+<img width="1057" alt="스크린샷 2020-10-14 오후 5 22 51" src="https://user-images.githubusercontent.com/30167661/95962957-06d22d80-0e42-11eb-98c7-d28f21eca434.png">
+
+## impala 설치
+<img width="920" alt="스크린샷 2020-10-14 오후 5 24 13" src="https://user-images.githubusercontent.com/30167661/95963100-32edae80-0e42-11eb-8f4f-f9c571ea84d3.png">
+
+
+
 ## mysql 명령어
 create database test
 
